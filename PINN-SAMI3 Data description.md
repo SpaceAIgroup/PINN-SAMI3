@@ -12,5 +12,7 @@ The "SAMI3_raw_data_20191223" folder contains the seven files mentioned above. T
 Similarly, the "SAMI3_raw_data_20211104" folder contains data from 0-15 minutes during the magnetic storm.
 
 If you need the datasets mentioned in the paper (such as raw data on velocity, temperature, etc.), please contact me. 
+
 It would be great if you could let me know how you plan to utilize this data.
+
 majy20@fudan.edu.cn
