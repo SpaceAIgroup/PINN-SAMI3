@@ -1,7 +1,9 @@
 # The data description of the paper: A novel ionospheric inversion model: PINN-SAMI3(Physics Informed Neural Network based on SAMI3)
 The raw data used in this study is based on the simulation data of the SAMI3 ionospheric full physical model. 
 The data consists of two parts: (1) December 23, 2019 (Section 3.1~3.4); (2) November 4, 2021 (Section 3.5);
-Because the data is too large, download it via the following link: https://www.alipan.com/s/dLosABg7Dj4
+Because the data is too large, download it via the following link: 
+https://drive.google.com/drive/folders/11_DH0nBjQ6YOa2V001bpJvli-u-xuCMj?usp=drive_link
+https://drive.google.com/drive/folders/1bMnqvdXWcVreIGRTdeGfCCLK_FQ6A_ct?usp=drive_link
 The link contains two folders:
 (1) SAMI3_raw_data_20191223 (2) SAMI3_raw_data_20211104;
 Each folder contains 7 files, the original files of ion density. 
