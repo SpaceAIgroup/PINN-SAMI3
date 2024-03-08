@@ -10,5 +10,7 @@ Each folder contains 7 files, the original files of ion density.
 Where data "deni1u.dat ~ deni7u.dat" represent the ion densities of H, O, NO, O2, He, N2 and N, respectively. The temporal resolution of the data is 8s.
 The "SAMI3_raw_data_20191223" folder contains the seven files mentioned above. This set of data contains the ion density training data of 0-15min required in the paper. 
 Similarly, the "SAMI3_raw_data_20211104" folder contains data from 0-15 minutes during the magnetic storm.
-If you need the datasets mentioned in the paper (such as raw data on velocity, temperature, etc.), please contact me. It would be great if you could let me know how you plan to utilize this data.
+
+If you need the datasets mentioned in the paper (such as raw data on velocity, temperature, etc.), please contact me. 
+It would be great if you could let me know how you plan to utilize this data.
 majy20@fudan.edu.cn
